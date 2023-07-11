@@ -1,5 +1,5 @@
 # Music and Depression
-# Author Nasri Binsaleh, Amina Asghar, Onintsoa Ramananandroniaina
+## Author Nasri Binsaleh, Amina Asghar, Onintsoa Ramananandroniaina
 
 ## Abstract
 
